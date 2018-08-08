@@ -2,7 +2,7 @@
 MindMaps
 Objective: to create and evalute different methods of knowlege capture and navigation using "MindMapping" software and visualization techniques.
 
-first steps would be to settle on a prototypical model that can be extended and/or develpoede into software
+first steps would be to settle on a prototypical model that can be extended and/or developed into software
     Evaluate existing products and apporaches
     refine prototype(s)
     
